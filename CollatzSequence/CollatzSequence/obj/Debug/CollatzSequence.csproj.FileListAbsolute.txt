@@ -1,0 +1,6 @@
+C:\Users\wwend\OneDrive\Programming\Projects\CollatzSequence\CollatzSequence\bin\Debug\CollatzSequence.exe.config
+C:\Users\wwend\OneDrive\Programming\Projects\CollatzSequence\CollatzSequence\bin\Debug\CollatzSequence.exe
+C:\Users\wwend\OneDrive\Programming\Projects\CollatzSequence\CollatzSequence\bin\Debug\CollatzSequence.pdb
+C:\Users\wwend\OneDrive\Programming\Projects\CollatzSequence\CollatzSequence\obj\Debug\CollatzSequence.csprojResolveAssemblyReference.cache
+C:\Users\wwend\OneDrive\Programming\Projects\CollatzSequence\CollatzSequence\obj\Debug\CollatzSequence.exe
+C:\Users\wwend\OneDrive\Programming\Projects\CollatzSequence\CollatzSequence\obj\Debug\CollatzSequence.pdb

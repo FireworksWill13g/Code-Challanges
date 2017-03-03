@@ -1,0 +1,6 @@
+C:\Users\wwend\OneDrive\Programming\Projects\ArraysAndFunctions\ArraysAndFunctions\bin\Debug\ArraysAndFunctions.exe.config
+C:\Users\wwend\OneDrive\Programming\Projects\ArraysAndFunctions\ArraysAndFunctions\bin\Debug\ArraysAndFunctions.exe
+C:\Users\wwend\OneDrive\Programming\Projects\ArraysAndFunctions\ArraysAndFunctions\bin\Debug\ArraysAndFunctions.pdb
+C:\Users\wwend\OneDrive\Programming\Projects\ArraysAndFunctions\ArraysAndFunctions\obj\Debug\ArraysAndFunctions.csprojResolveAssemblyReference.cache
+C:\Users\wwend\OneDrive\Programming\Projects\ArraysAndFunctions\ArraysAndFunctions\obj\Debug\ArraysAndFunctions.exe
+C:\Users\wwend\OneDrive\Programming\Projects\ArraysAndFunctions\ArraysAndFunctions\obj\Debug\ArraysAndFunctions.pdb

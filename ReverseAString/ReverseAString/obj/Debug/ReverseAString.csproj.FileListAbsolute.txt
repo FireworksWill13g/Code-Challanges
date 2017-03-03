@@ -1,0 +1,6 @@
+C:\Users\wwend\OneDrive\Programming\Projects\ReverseAString\ReverseAString\bin\Debug\ReverseAString.exe.config
+C:\Users\wwend\OneDrive\Programming\Projects\ReverseAString\ReverseAString\bin\Debug\ReverseAString.exe
+C:\Users\wwend\OneDrive\Programming\Projects\ReverseAString\ReverseAString\bin\Debug\ReverseAString.pdb
+C:\Users\wwend\OneDrive\Programming\Projects\ReverseAString\ReverseAString\obj\Debug\ReverseAString.csprojResolveAssemblyReference.cache
+C:\Users\wwend\OneDrive\Programming\Projects\ReverseAString\ReverseAString\obj\Debug\ReverseAString.exe
+C:\Users\wwend\OneDrive\Programming\Projects\ReverseAString\ReverseAString\obj\Debug\ReverseAString.pdb

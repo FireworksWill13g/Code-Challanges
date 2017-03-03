@@ -1,0 +1,6 @@
+C:\Users\wwend\OneDrive\Programming\Projects\nestedForLoops\nestedForLoops\bin\Debug\nestedForLoops.exe.config
+C:\Users\wwend\OneDrive\Programming\Projects\nestedForLoops\nestedForLoops\bin\Debug\nestedForLoops.exe
+C:\Users\wwend\OneDrive\Programming\Projects\nestedForLoops\nestedForLoops\bin\Debug\nestedForLoops.pdb
+C:\Users\wwend\OneDrive\Programming\Projects\nestedForLoops\nestedForLoops\obj\Debug\nestedForLoops.csprojResolveAssemblyReference.cache
+C:\Users\wwend\OneDrive\Programming\Projects\nestedForLoops\nestedForLoops\obj\Debug\nestedForLoops.exe
+C:\Users\wwend\OneDrive\Programming\Projects\nestedForLoops\nestedForLoops\obj\Debug\nestedForLoops.pdb
